@@ -32,9 +32,8 @@ pom.xml: Maven project configuration file.
 Getting Started
 Clone this repository to your local machine:
 
-shell
 Copy code
-git clone https://github.com/your-username/grid-authentication-system.git
+git clone [https://github.com/your-username/grid-authentication-system.git](https://github.com/Sweetsalt123/Pattern-Grid-Authetication/tree/master)
 Import the project into your favorite IDE (e.g., IntelliJ IDEA, Eclipse).
 
 Configure the database connection in application.properties.
